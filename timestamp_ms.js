@@ -28,5 +28,5 @@ app.get('/:TIME', function(req, res){
     res.end(JSON.stringify(result));
 });
 
-var port = process.env.PORT || 8080;
+var port = process.env.PORT || 8080; 
 app.listen(port);
