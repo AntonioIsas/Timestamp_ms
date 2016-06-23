@@ -1,0 +1,29 @@
+{
+  "name": "Timestamp_ms",
+  "version": "1.0.0",
+  "description": "Return a unix time stamp for a given date",
+  "main": "timestamp_ms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioIsas/Timestamp_ms.git"
+  },
+  "keywords": [
+    "time stamp",
+    "free code camp"
+    ],
+  "author": "Antonio Isas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonioIsas/Timestamp_ms/issues"
+  },
+  "homepage": "https://github.com/AntonioIsas/Timestamp_ms#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": "4.1.2"
+  }
+}
